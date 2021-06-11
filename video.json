@@ -1,0 +1,49 @@
+{
+	"list": [
+		{
+			"id": 1,
+			"src": "https://sf1-scmcdn-tos.pstatp.com/goofy/ies/douyin_home_web/medias/banner_video1.4c74cc4e.mp4",
+			"author": "张三",
+			"title": "标题信息1",
+			"loveNumber": 111,
+			"commentNumber": 222,
+			"shareNumber": 333
+		},
+		{
+			"id": 2,
+			"src": "https://sf1-scmcdn-tos.pstatp.com/goofy/ies/douyin_home_web/medias/1.d84c3d3e.mp4",
+			"author": "李四",
+			"title": "标题信息2",
+			"loveNumber": 1111,
+			"commentNumber": 2222,
+			"shareNumber": 3333
+		},
+		{
+			"id": 3,
+			"src": "https://sf1-scmcdn-tos.pstatp.com/goofy/ies/douyin_home_web/medias/3.03d4fdee.mp4",
+			"author": "王五",
+			"title": "标题信息3",
+			"loveNumber": 11111,
+			"commentNumber": 22222,
+			"shareNumber": 33333
+		},
+		{
+			"id": 4,
+			"src": "https://sf1-scmcdn-tos.pstatp.com/goofy/ies/douyin_home_web/medias/9.22b85be6.mp4",
+			"author": "赵六",
+			"title": "标题信息六",
+			"loveNumber": 21312,
+			"commentNumber": 23423,
+			"shareNumber": 33312312
+		},
+		{
+			"id": 5,
+			"src": "https://sf1-scmcdn-tos.pstatp.com/goofy/ies/douyin_home_web/medias/5.2abb0bf1.mp4",
+			"author": "孙七",
+			"title": "标题信息七",
+			"loveNumber": 1114564,
+			"commentNumber": 2223452,
+			"shareNumber": 743873
+		}
+	]
+}

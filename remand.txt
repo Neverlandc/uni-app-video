@@ -1,0 +1,1 @@
+json-server --watch video.json --port 3000
