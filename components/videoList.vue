@@ -26,20 +26,7 @@
 		props:['list'],
 		data() {
 			return {
-				videoList: [
-					// {
-					// 	id: 1,
-					// 	src: 'https://sf1-scmcdn-tos.pstatp.com/goofy/ies/douyin_home_web/medias/banner_video1.4c74cc4e.mp4'
-					// },
-					// {
-					// 	id: 2,
-					// 	src: 'https://sf1-scmcdn-tos.pstatp.com/goofy/ies/douyin_home_web/medias/1.d84c3d3e.mp4'
-					// },
-					// {
-					// 	id: 3,
-					// 	src: 'https://sf1-scmcdn-tos.pstatp.com/goofy/ies/douyin_home_web/medias/3.03d4fdee.mp4'
-					// }
-				]
+				videoList: []
 			};
 		},
 		watch:{

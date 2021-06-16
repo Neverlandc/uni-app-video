@@ -105,7 +105,7 @@
 /******/
 /******/
 /******/ 		// mini-css-extract-plugin CSS loading
-/******/ 		var cssChunks = {"components/first-nav":1,"components/tab":1,"components/videoList":1,"components/listLeft":1,"components/videoPlayer":1};
+/******/ 		var cssChunks = {"components/first-nav":1,"components/tab":1,"components/videoList":1,"components/listLeft":1,"components/listRight":1,"components/videoPlayer":1};
 /******/ 		if(installedCssChunks[chunkId]) promises.push(installedCssChunks[chunkId]);
 /******/ 		else if(installedCssChunks[chunkId] !== 0 && cssChunks[chunkId]) {
 /******/ 			promises.push(installedCssChunks[chunkId] = new Promise(function(resolve, reject) {

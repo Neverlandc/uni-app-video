@@ -53,9 +53,35 @@
   -webkit-line-clamp: 3;
   /** 显示的行数 **/
 }
+.listLeft .music-box.data-v-4717cf80 {
+  width: 100px;
+  overflow: hidden;
+}
 .listLeft .music.data-v-4717cf80 {
   height: 35px;
   line-height: 35px;
   font-size: 12px;
+  -webkit-animation: music-data-v-4717cf80 4s linear 0.2s infinite;
+          animation: music-data-v-4717cf80 4s linear 0.2s infinite;
+}
+@-webkit-keyframes music-data-v-4717cf80 {
+0% {
+    -webkit-transform: translate3d(80%, 0, 0);
+            transform: translate3d(80%, 0, 0);
+}
+100% {
+    -webkit-transform: translate3d(-80%, 0, 0);
+            transform: translate3d(-80%, 0, 0);
+}
+}
+@keyframes music-data-v-4717cf80 {
+0% {
+    -webkit-transform: translate3d(80%, 0, 0);
+            transform: translate3d(80%, 0, 0);
+}
+100% {
+    -webkit-transform: translate3d(-80%, 0, 0);
+            transform: translate3d(-80%, 0, 0);
+}
 }
 
